@@ -1,0 +1,15 @@
+Step 1 - Download and install Autohotkey:
+https://www.autohotkey.com/download/1.1/
+
+Step 2 - Right-Click 'Save Link As' for this file wowAFKinactive.ahk and download to your desktop or any fav folder.
+
+Step 3 - While playing WoW, move character to an inn or rested place, then run this wowAFKinactive.ahk macro.
+
+Step 4 - Hold CTRL+SHIFT keys and press Middle mouse button oNce. Then press Space once to activate macro.
+
+Step 5 - Observe that macro will periodically move your char about the same spot so it won't get disconnected for afking.
+
+Works even if WoW is minimized or alt-tabbed. Commands will not interfere with anything else except in WoW.
+
+To disable macro, either CTRL+SHIFT+MiddleClick, or just right-click exit the macro in your taskbar.
+
